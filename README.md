@@ -2,7 +2,9 @@
 This repository contains selected core implementations accompanying our paper on HE-to-IHC stain transfer.  
 At this stage, we are releasing only the essential components to illustrate the methodology.  
 The full training and inference codebase is being organized and will be released in a future update.
+
 **Contact:** For any questions or clarifications, please contact: [wangtong8868@gmail.com](mailto:wangtong8868@gmail.com)
+
 ## Methods Overview
 We highlight two main components of our framework:
 - **Idea 1**: Multi-layer Domain Alignment (MDA)
